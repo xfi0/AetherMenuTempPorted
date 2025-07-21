@@ -1,7 +1,7 @@
 # Aether menu temp ported
 
-## This is a unofficial port for the popular template [Aether Temp](https://github.com/zyroyz/AetherPadTemp/blob/main/AetherTemp/Menu/Main.cs)
-### I am not associated with zyroyz
+## This is a unofficial port for the popular [Aether Template](https://github.com/zyroyz/AetherPadTemp/blob/main/AetherTemp/Menu/Main.cs)
+### I am not associated with zyroyz in anyway.
 ---
 
 ## Installation
