@@ -1,2 +1,14 @@
-# AetherMenuTempPorted
-This Is A Port For The Aether Pad Temp For Quest / Melon Loader. 
+# Aether menu temp ported
+
+## This is a unofficial port for the popular template [Aether Temp](https://github.com/zyroyz/AetherPadTemp/blob/main/AetherTemp/Menu/Main.cs)
+
+---
+
+## Installation
+
+1. [Download the ZIP](https://github.com/xfi0/AetherMenuTempPorted/releases/tag/Release-V1.0)
+2. Change the name in `PluginInfo.cs`
+3. Add buttons and sections in `Buttons.cs`
+4. Press `Ctrl + B` to build
+
+---
