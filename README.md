@@ -11,7 +11,7 @@ This is an unofficial port of the popular [Aether Template](https://github.com/z
 
 ## Installation
 
-1. Download the latest release: [Release V1.0](https://github.com/xfi0/Aether-Mini-Pad-Temp/releases/download/Release-V1.0/AetherMiniPadTemp-main.rar)
+1. Download the latest release: [Release V1.0](https://github.com/xfi0/AetherMenuTempPorted/releases/download/Release-V1.0/AetherPadTemp.rar)
 
 2. Rename the menu in `PluginInfo.cs`
 
